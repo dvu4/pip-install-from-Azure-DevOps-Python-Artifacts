@@ -21,14 +21,15 @@ For example,  we want to install `dai-python-logging` package
 
 ![Scenario5](./docs/image5.png)
 
-  - Token is created
+  - Token is created, make sure to save this token somewhere (like .txt file) for later use
 ![Scenario3](./docs/image3.png)
 
 - Step 2 : Install a Python package from Azure DevOps Artifacts
 
   - `pip install <python-package>   --extra-index-url https://pkgs.dev.azure.com/<your-organization-name>/<your-project-name>/_packaging/<your-feed-name>/pypi/simple`
 
-  - In this case : `pip install dai-python-logging --extra-index-url https://pkgs.dev.azure.com/WBA/DAI/_packaging/DAI/pypi/simple`
+  - In this case : 
+    - `pip install dai-python-logging --extra-index-url https://pkgs.dev.azure.com/WBA/DAI/_packaging/DAI/pypi/simple`
 
 - Step 3 : you can provide any username and  password (token)
 
