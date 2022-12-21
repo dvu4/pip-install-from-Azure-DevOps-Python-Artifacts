@@ -16,14 +16,14 @@ For example,  we want to install `dai-identity-api` package
 - Step 1 : Create username and password  to access REST APIs
   - Go to Personal Access Tokens
 
-  - ![Scenario4](./docs/image4.png)
+![Scenario4](./docs/image4.png)
 
   - Create a new personal access token
 
-  - ![Scenario5](./docs/image5.png)
+![Scenario5](./docs/image5.png)
 
   - Token is created, make sure to save this token somewhere (like .txt file) for later use
-  - ![Scenario3](./docs/image3.png)
+![Scenario3](./docs/image3.png)
 
 - Step 2 : Pass extra index url to install a Python package from Azure DevOps Artifacts
 
