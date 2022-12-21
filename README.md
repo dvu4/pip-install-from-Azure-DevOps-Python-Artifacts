@@ -11,11 +11,12 @@ For example,  we want to install `dai-python-logging` package
 
 ![Scenario2](./docs/image2.png)
 
-- Step 1 : Create username and password  to access REST APIs
+##  Here are steps to install a Python package
 
+- Step 1 : Create username and password  to access REST APIs
   - Go to Personal Access Tokens
 
-![Scenario4](./docs/image4.png)
+  - ![Scenario4](./docs/image4.png)
 
   - Create a new personal access token
 
