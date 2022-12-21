@@ -23,6 +23,7 @@ For example,  we want to install `dai-identity-api` package
 ![Scenario5](./docs/image5.png)
 
   - Token is created, make sure to save this token somewhere (like .txt file) for later use
+  
 ![Scenario3](./docs/image3.png)
 
 - Step 2 : Pass extra index url to install a Python package from Azure DevOps Artifacts
@@ -34,6 +35,6 @@ For example,  we want to install `dai-identity-api` package
 
 - Step 3 : Provide any username and  password (token)
 
-  - ![Scenario6](./docs/image6.png)
+![Scenario6](./docs/image6.png)
 
 
