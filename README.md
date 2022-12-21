@@ -9,20 +9,21 @@ For example,  we want to install `dai-python-logging` package
 
 `pip install dai-identity-api` will not work. We will need to pass extra index url
 
+![Scenario2](./docs/image2.png)
+
 - Step 1 : Create username and password  to access REST APIs
 
   - Go to Personal Access Tokens
 
-![Scenario2](./docs/image2.png)
-
-  - Create a new personal access token
 ![Scenario4](./docs/image4.png)
 
+  - Create a new personal access token
 
 ![Scenario5](./docs/image5.png)
 
-Token is created
+  - Token is created
 ![Scenario3](./docs/image3.png)
+
 - Step 2 : Install a Python package from Azure DevOps Artifacts
 
   - `pip install <python-package>   --extra-index-url https://pkgs.dev.azure.com/<your-organization-name>/<your-project-name>/_packaging/<your-feed-name>/pypi/simple`
