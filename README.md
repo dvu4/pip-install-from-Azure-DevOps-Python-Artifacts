@@ -1,5 +1,6 @@
-#   Install a package from our Azure DevOps Artifacts feed 
+#   Install a private python package from Azure DevOps Artifacts feed 
 
+ 
 Package from our Azure DevOps Artifacts is internal package, we can not download directly. 
 
 
